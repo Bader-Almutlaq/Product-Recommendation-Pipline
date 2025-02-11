@@ -16,8 +16,7 @@
   - [Results](#results)
   - [Acknowledgment](#acknowledgment)
   - [License](#license)
-  - [License](#license-1)
-
+ 
 ---
 
 ## Project Overview
@@ -139,6 +138,6 @@ This project is part of the Udacity Data Scientist Nanodegree program
 
 ## License
 [License](./License.txt)
----
+
 
 
